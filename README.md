@@ -3,9 +3,12 @@ This repo is the official resource of the following paper.
 - [Traditional and Context-Specific Spam Detection in Low Resource Settings](XXX), Machine Learning Journal (2022).
 
 ## 📚 Data Sets
+
 The data sets for the experiments presented in [our paper](XXX) are available below.
 
 - ~~Spam Data Sets~~ - [[Coming Soon](ComingSoon)]
+
+![image](https://github.com/GU-DataLab/context-spam/blob/main/class_distribution.png)
 
 ## ✏️ Citation
 If you feel our paper and resources are useful, please consider citing our work! 🙏
