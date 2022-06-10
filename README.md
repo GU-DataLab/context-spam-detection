@@ -1,6 +1,7 @@
 # 🎯 Context-Specific Spam: A new task of spam detection
 This repo is the official resource of the following paper.
 - [Traditional and Context-Specific Spam Detection in Low Resource Settings](https://link.springer.com/article/10.1007/s10994-022-06176-x), Machine Learning Journal (2022).
+- [View only version of the paper](https://rdcu.be/cPly3) is also available if you do not have an access to the paper via the link above.
 
 ## 📚 Data Sets
 
