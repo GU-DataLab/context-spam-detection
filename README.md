@@ -7,7 +7,7 @@ This repo is the official resource of the following paper.
 
 The data sets for the experiments presented in [our paper](https://link.springer.com/article/10.1007/s10994-022-06176-x) are available below.
 
-- ~~Spam Data Sets~~ - [[Coming Soon](ComingSoon)]
+- Traditional Spam & Context-spem Data Sets - [[Download](https://portals.mdi.georgetown.edu/public/spam)]
 
 ![image](https://github.com/GU-DataLab/context-spam/blob/main/class_distribution.png)
 
